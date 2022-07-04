@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @420FIA
 - 👀 I’m interested in ...CRYPTOS
-- 🌱 I’m currently learning ...FINGERPTINT
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...FINGERPTINT.KEY.API- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...DM
 
 <!---
